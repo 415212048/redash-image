@@ -26,7 +26,7 @@
 - **REST API:** All operations that can be completed in the user interface can also be achieved through the REST API.
 - **Wide Range of Data Source Support:** An extensible data source API natively supports many common databases and platforms.
 
-This project provides an open-source image product [**Redash Data Query and Visualization Tool**](https://marketplace.huaweicloud.com/hidden/contents/1c70adbb-d0fc-4572-891e-7112bfc165c0#productid=OFFI1129684441106587648), which has pre-installed the Redash software and its related operating environment and provides a deployment template. Come and refer to the usage guide to easily start an "out-of-the-box" and efficient experience!
+This project provides an open-source image product [**Redash Data Query and Visualization Tool**](https://marketplace.huaweicloud.com/contents/1c70adbb-d0fc-4572-891e-7112bfc165c0#productid=OFFI1129684441106587648), which has pre-installed the Redash software and its related operating environment and provides a deployment template. Come and refer to the usage guide to easily start an "out-of-the-box" and efficient experience!
 
 > **System requirements are as follows:**
 > - CPU: 2GHz or higher
@@ -40,7 +40,7 @@ This project provides an open-source image product [**Redash Data Query and Visu
 
 | Image Specification                                                                                                                              | Feature Description                                        | Remarks |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [Redash25.1-arm-v1.0](https://marketplace.huaweicloud.com/hidden/contents/1c70adbb-d0fc-4572-891e-7112bfc165c0#productid=OFFI1129684441106587648) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [Redash-25.1-kunpeng](https://github.com/HuaweiCloudDeveloper/redash-image/tree/redash-25.1-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 - For more questions, you can contact us through [issues](https://github.com/HuaweiCloudDeveloper/redash-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.

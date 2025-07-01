@@ -28,7 +28,7 @@
 
 
 
-本项目提供的开源镜像商品 [**redash数据查询与可视化工具**](https://marketplace.huaweicloud.com/hidden/contents/1c70adbb-d0fc-4572-891e-7112bfc165c0#productid=OFFI1129684441106587648)，已预先安装 redash 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**redash数据查询与可视化工具**](https://marketplace.huaweicloud.com/contents/1c70adbb-d0fc-4572-891e-7112bfc165c0#productid=OFFI1129684441106587648)，已预先安装 redash 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
@@ -40,9 +40,9 @@
 
 ## 镜像说明
 
-| 镜像规格                                                                                                                                 | 特性说明                                           | 备注 |
-|--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [Redash25.1-arm-v1.0](https://marketplace.huaweicloud.com/hidden/contents/1c70adbb-d0fc-4572-891e-7112bfc165c0#productid=OFFI1129684441106587648) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| 镜像规格                                                                                                                                                  | 特性说明                                           | 备注 |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
+| [Redash-25.1-kunpeng](https://github.com/HuaweiCloudDeveloper/redash-image/tree/redash-25.1-kunpeng) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/redash-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
