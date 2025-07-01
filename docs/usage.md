@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[redash数据查询与可视化工具](https://marketplace.huaweicloud.com/hidden/contents/1c70adbb-d0fc-4572-891e-7112bfc165c0#productid=OFFI1129684441106587648)
+[redash数据查询与可视化工具](https://marketplace.huaweicloud.com/contents/1c70adbb-d0fc-4572-891e-7112bfc165c0#productid=OFFI1129684441106587648)
 
 # 二、商品说明
 
